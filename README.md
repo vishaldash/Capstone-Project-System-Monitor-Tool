@@ -78,8 +78,7 @@ Day 5: Added real-time auto-refresh to update system stats periodically.
 
 ## Author:
 
-Samidha Burma
+Vishal dash
 
-Mail: [burmasamidha1@gmail.com]
+Mail: [dashvishal5@gmail.com]
 
-Github: [https://github.com/samidhhaaaa]
